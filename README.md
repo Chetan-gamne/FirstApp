@@ -1,14 +1,35 @@
-# Expo Router Example
+# Job Finder
 
-Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
+> This is First App I have build using Expo \
+> First Small Step Towards Cross Platform developement 🚀
 
-## 🚀 How to use
+## Key Functionality
 
-```sh
-npx create-expo-app -e with-router
-```
+- Job Search Functionality
+- Job Details Page
+- Ability To Apply
+- Dynamic job Pages
+- Pagination
+- Filters
 
-## 📝 Notes
+## Screenshots
 
-- [Expo Router: Docs](https://expo.github.io/router)
-- [Expo Router: Repo](https://github.com/expo/router)
+Include some screenshots or demo images of your app to showcase its interface and features. You can add images to your repository and link them here.
+
+![Screenshot 1](screenshots/screenshot2.png)
+
+> Home Screen
+
+![Screenshot 2](screenshots/screenshot3.png)
+
+> Job Detail Screen
+
+![Screenshot 3](screenshots/screenshot1.png)
+
+> Search Screen
+
+## Installation and Getting Started
+
+- Clone The Repo using git clone
+- run npm install or yarn command to install necessary dependencies
+- run application using npm start or using expo-cli
