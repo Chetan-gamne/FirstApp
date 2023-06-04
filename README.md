@@ -16,17 +16,14 @@
 
 Include some screenshots or demo images of your app to showcase its interface and features. You can add images to your repository and link them here.
 
-![Screenshot 1](screenshots/screenshot2.png)
-
+<img src="screenshots/screenshot2.png" alt="Screenshot 1" width="300">
 > Home Screen
 
-![Screenshot 2](screenshots/screenshot3.png)
-
+<img src="screenshots/screenshot3.png" alt="Screenshot 2" height="300">
 > Job Detail Screen
 
-![Screenshot 3](screenshots/screenshot1.png)
-
-> Search Screen
+<img src="screenshots/screenshot1.png" alt="Screenshot 3" width="300">
+> Search Scren
 
 ## Installation and Getting Started
 
